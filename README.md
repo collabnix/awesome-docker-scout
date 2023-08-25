@@ -22,8 +22,13 @@ A Curated List of Tutorials and Guides for Wasm
 
 - [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
 - [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
+- [How to scan container images with Docker Scout](https://www.techrepublic.com/article/how-to-scan-container-images-docker-scout/)
+- [Mastering Docker Scout through Docker Desktop GUI and CLI](https://www.heyvaldemar.com/mastering-docker-scout-through-docker-desktop-gui-and-cli/)
 
 
 
-# Tutorials
+# Video Tutorials
+
+- [Find Vulnerabilities Fast! New Docker CLI Command: Docker Scout](https://www.youtube.com/watch?v=0Wc4-_DownU)
+- 
 
