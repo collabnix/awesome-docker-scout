@@ -20,6 +20,9 @@ A Curated List of Tutorials and Guides for Wasm
 
 # Blogs
 
+- [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
+- [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
+
 
 
 # Tutorials
