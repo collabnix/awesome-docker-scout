@@ -6,7 +6,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
-# A Curated List of Docker Scout Resources c
+# A Curated List of Docker Scout Resources 
 
 A Curated List of Tutorials and Guides for Docker Scout
 
@@ -41,10 +41,13 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/)
 
 
-# Video Tutorials
+# Featured Videos
 
-- [Docker Scout: Live Demo, Insights, and Q&A](https://www.youtube.com/watch?v=Ibt6o8M2IHw)
-- [Docker Scout - Vulnerability Scanning and Reporting Functionality for Docker Desktop](https://www.youtube.com/watch?v=2sY7z2yv_5Y&t=39s)
+| Docker Scout: Live Demo, Insights, and Q&A                                                                                                                                              | Docker Scout - Vulnerability Scanning and Reporting Functionality for Docker Desktop                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Docker Scout](https://img.youtube.com/vi/Ibt6o8M2IHw/sddefault.jpg)](https://www.youtube.com/watch?v=Ibt6o8M2IHw) | [![Docker Scout - Vulnerability Scanning and Reporting Functionality for Docker Desktop](https://img.youtube.com/vi/2sY7z2yv_5Y/sddefault.jpg)](https://www.youtube.com/watch?v=2sY7z2yv_5Y&t=39s) |
+
+
 - [Find Vulnerabilities Fast! New Docker CLI Command: Docker Scout](https://www.youtube.com/watch?v=0Wc4-_DownU)
 - [How to add the docker scout feature to the Docker CLI](https://www.youtube.com/watch?v=pb7ydpJq-D8)
 - [Have you heard about Docker Scout?](https://youtube.com/shorts/o3aiNvhC9dc?si=20XdvWafyrUFHUM5)
