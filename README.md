@@ -27,6 +27,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Vulnerability and Dependency Scanning with Docker Scout](https://www.c-sharpcorner.com/article/vulnerability-and-dependency-scanning-with-docker-scout/)
 - [Docker 4.18 Extends Scout, Adds Container File Explorer, Docker Init, and More](https://www.infoq.com/news/2023/04/docker-4-18-released/)
 - [Using Docker Scout to Scan Container Images](https://www.fosslife.org/using-docker-scout-scan-container-images)
+- [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 
 
 # Video Tutorials
