@@ -30,6 +30,17 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 
 
+# Tutorials
+
+- [Docker Scout quickstart](https://docs.docker.com/scout/quickstart/)
+- [Docker Scout Advanced image analysis](https://docs.docker.com/scout/advanced-image-analysis/)
+- [Integrate Docker Scout with GitHub Actions](https://docs.docker.com/scout/integrations/ci/gha/)
+- [Integrate Docker Scout with GitLab CI](https://docs.docker.com/scout/integrations/ci/gitlab/)
+- [Integrate Docker Scout with Microsoft Azure DevOps Pipelines](https://docs.docker.com/scout/integrations/ci/azure/)
+- [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
+- [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/)
+
+
 # Video Tutorials
 
 - [Docker Scout: Live Demo, Insights, and Q&A](https://www.youtube.com/watch?v=Ibt6o8M2IHw)
