@@ -39,6 +39,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Integrate Docker Scout with Microsoft Azure DevOps Pipelines](https://docs.docker.com/scout/integrations/ci/azure/)
 - [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
 - [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/)
+- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/)
 
 
 ## GitHub Sample projects
