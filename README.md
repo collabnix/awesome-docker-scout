@@ -32,6 +32,9 @@ A Curated List of Tutorials and Guides for Docker Scout
 
 # Video Tutorials
 
+- [Docker Scout: Live Demo, Insights, and Q&A](https://www.youtube.com/watch?v=Ibt6o8M2IHw)
+- [Docker Scout - Vulnerability Scanning and Reporting Functionality for Docker Desktop](https://www.youtube.com/watch?v=2sY7z2yv_5Y&t=39s)
 - [Find Vulnerabilities Fast! New Docker CLI Command: Docker Scout](https://www.youtube.com/watch?v=0Wc4-_DownU)
-- 
+- [How to add the docker scout feature to the Docker CLI](https://www.youtube.com/watch?v=pb7ydpJq-D8)
+- [Have you heard about Docker Scout?](https://youtube.com/shorts/o3aiNvhC9dc?si=20XdvWafyrUFHUM5)
 
