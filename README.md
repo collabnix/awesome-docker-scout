@@ -20,6 +20,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 
 # Blogs
 
+- [Enhancing Your GitHub Workflow with Docker Scout](https://www.felipecruz.es/enhancing-your-github-workflow-with-docker-scout/)
 - [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
 - [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
 - [How to scan container images with Docker Scout](https://www.techrepublic.com/article/how-to-scan-container-images-docker-scout/)
@@ -28,6 +29,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Docker 4.18 Extends Scout, Adds Container File Explorer, Docker Init, and More](https://www.infoq.com/news/2023/04/docker-4-18-released/)
 - [Using Docker Scout to Scan Container Images](https://www.fosslife.org/using-docker-scout-scan-container-images)
 - [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
+- [Scan Container Images for Vulnerabilities with Docker Scout](https://thenewstack.io/scan-container-images-for-vulnerabilities-with-docker-scout/)
 
 
 # Tutorials
