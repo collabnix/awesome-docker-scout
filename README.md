@@ -41,6 +41,13 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/)
 
 
+## GitHub Sample projects
+
+- [Scout Action](https://github.com/docker/scout-action)
+- [Scout CLI](https://github.com/docker/scout-cli)
+
+
+
 # Featured Videos
 
 | Docker Scout: Live Demo, Insights, and Q&A                                                                                                                                              | Docker Scout - Vulnerability Scanning and Reporting Functionality for Docker Desktop                                                                                                                                             |
