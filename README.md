@@ -64,7 +64,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 
 
 | Have you heard about Docker Scout Capabilities?| Docker Scout Tutorial: Docker scanning               |
-| ------------------------------------------------ | ---------------------------------------------------- |
+| ---------------------------------------------- | -------------------------------------------------- |
 | [![Docker Scout](https://i.ytimg.com/vi/Ibt6o8M2IHw/maxresdefault.jpg)](https://youtube.com/shorts/o3aiNvhC9dc?si=20XdvWafyrUFHUM5) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
 
