@@ -63,9 +63,9 @@ A Curated List of Tutorials and Guides for Docker Scout
 | [![Docker Scout](https://img.youtube.com/vi/0Wc4-_DownU/sddefault.jpg)](https://www.youtube.com/watch?v=0Wc4-_DownU) | [![Docker Scout](https://img.youtube.com/vi/pb7ydpJq-D8/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
 
-| Have you heard about Docker Scout Capabilities?| Docker Scout Tutorial: Docker scanning               |
+| How to scan Container image using Docker Scout| Docker Scout Tutorial: Docker scanning               |
 | ---------------------------------------------- | -------------------------------------------------- |
-| [![Docker Scout](https://i.ytimg.com/vi/Ibt6o8M2IHw/maxresdefault.jpg)](https://youtube.com/shorts/o3aiNvhC9dc?si=20XdvWafyrUFHUM5) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
+| [![Docker Scout](https://img.youtube.com/vi/SlUqxSUvv3o/sddefault.jpg)](https://www.youtube.com/watch?v=SlUqxSUvv3o&t=5s) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
 
 
