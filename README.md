@@ -6,9 +6,9 @@
 ![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
 
 
-# A Curated List of Docker Scout Resources 
+# Awesome Docker Scout [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A Curated List of Tutorials and Guides for Docker Scout
+A Curated List of Awesome Docker Scout Tutorials and Resources
 
 # 📝 Join our Community
 
