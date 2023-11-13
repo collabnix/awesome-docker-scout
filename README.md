@@ -31,6 +31,7 @@ A Curated List of Tutorials and Guides for Docker Scout
 - [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 - [How to Integrate Docker Scout with GitHub Actions](https://collabnix.com/how-to-integrate-docker-scout-with-github-actions/)
 - [Scan Container Images for Vulnerabilities with Docker Scout](https://thenewstack.io/scan-container-images-for-vulnerabilities-with-docker-scout/)
+- [Docker Scout by Fsegredo](https://link.medium.com/U7exfMopKCb)
 
 
 # Tutorials
