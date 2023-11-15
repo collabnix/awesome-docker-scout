@@ -41,6 +41,7 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 - [How to Integrate Docker Scout with GitLab](https://collabnix.com/how-to-integrate-docker-scout-with-gitlab/)
 
 
+
 # Tutorials
 
 - [Docker Scout quickstart](https://docs.docker.com/scout/quickstart/)
@@ -58,6 +59,10 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 - [Scout Action](https://github.com/docker/scout-action)
 - [Scout CLI](https://github.com/docker/scout-cli)
 
+
+## Case Studies
+
+- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/)
 
 
 # Featured Videos
