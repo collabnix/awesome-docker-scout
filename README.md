@@ -19,7 +19,7 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 - Fork, Contribute & Share via [Scout GITHUB Repository](https://github.com/collabnix/docker-scout-community)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
-### [Download Docker Scout Cheatsheet Now!!](https://www.docker.com/resources/scout-cheat-sheet/)
+### [Download Docker Scout Cheatsheet Now!!](https://www.docker.com/resources/scout-cheat-sheet/) ![badge](https://img.shields.io/badge/-new-green) 
 
 
 
