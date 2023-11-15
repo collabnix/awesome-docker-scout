@@ -64,7 +64,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 ## Case Studies
 
-- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/) ![badge](https://img.shields.io/badge/-new-green) 
+- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/) ![badge](https://img.shields.io/badge/-new-green)
+- [Sysdig and Docker Forge Alliance to Accelerate Cloud-Native Security](https://medium.com/@seifeddinerajhi/sysdig-and-docker-forge-alliance-to-accelerate-cloud-native-security-16f6fec74327)
 
 
 # Featured Videos
