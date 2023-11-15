@@ -72,23 +72,17 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 | ------------------------------------------------ | ---------------------------------------------------- |
 | [![Docker Scout](https://img.youtube.com/vi/4iJ7yw-Oe4I/sddefault.jpg)](https://www.youtube.com/watch?v=4iJ7yw-Oe4I) | [![Docker Scout](https://img.youtube.com/vi/y9XssbBRIi4/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
-
-
-
 | Docker Scout: Live Demo, Insights, and Q&A       | Vulnerability Scanning and Reporting         |
 | ------------------------------------------------ | -------------------------------------------- |
 | [![Docker Scout](https://img.youtube.com/vi/Ibt6o8M2IHw/sddefault.jpg)](https://www.youtube.com/watch?v=Ibt6o8M2IHw) | [![Vulnerability Scanning and Reporting](https://img.youtube.com/vi/2sY7z2yv_5Y/sddefault.jpg)](https://www.youtube.com/watch?v=2sY7z2yv_5Y&t=39s) |
 
-
-
-
-
+| Find Vulnerabilities Fast! New Docker CLI Command| Adding the docker scout feature to the Docker CLI    |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/0Wc4-_DownU/sddefault.jpg)](https://www.youtube.com/watch?v=0Wc4-_DownU) | [![Docker Scout](https://img.youtube.com/vi/pb7ydpJq-D8/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
 
 | How to scan Container image using Docker Scout| Docker Scout Tutorial: Docker scanning               |
 | ---------------------------------------------- | -------------------------------------------------- |
 | [![Docker Scout](https://img.youtube.com/vi/SlUqxSUvv3o/sddefault.jpg)](https://www.youtube.com/watch?v=SlUqxSUvv3o&t=5s) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
-
-
 
 
