@@ -26,7 +26,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 # Blogs
 
-- [Enhancing Your GitHub Workflow with Docker Scout](https://www.felipecruz.es/enhancing-your-github-workflow-with-docker-scout/)
+- [Enhancing Your GitHub Workflow with Docker Scout](https://www.felipecruz.es/enhancing-your-github-workflow-with-docker-scout/)  ![badge](https://img.shields.io/badge/-new-green) 
+- [Achieve Security and Compliance Goals with Policy Guardrails in Docker Scout](https://www.docker.com/blog/achieve-security-and-compliance-goals-with-policy-guardrails-in-docker-scout/)  ![badge](https://img.shields.io/badge/-new-green) 
 - [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
 - [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
 - [How to scan container images with Docker Scout](https://www.techrepublic.com/article/how-to-scan-container-images-docker-scout/)
