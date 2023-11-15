@@ -37,8 +37,9 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 - [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 - [How to Integrate Docker Scout with GitHub Actions](https://collabnix.com/how-to-integrate-docker-scout-with-github-actions/)
 - [Scan Container Images for Vulnerabilities with Docker Scout](https://thenewstack.io/scan-container-images-for-vulnerabilities-with-docker-scout/)
-- [Docker Scout by Fsegredo](https://link.medium.com/U7exfMopKCb)
-- [How to Integrate Docker Scout with GitLab](https://collabnix.com/how-to-integrate-docker-scout-with-gitlab/)
+- [Docker Scout by Fsegredo](https://link.medium.com/U7exfMopKCb) ![badge](https://img.shields.io/badge/-new-green) 
+- [How to Integrate Docker Scout with GitLab](https://collabnix.com/how-to-integrate-docker-scout-with-gitlab/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Docker Scout Unveils Advanced Features to Bolster Software Supply Chain Integrity](https://opensourcewatch.beehiiv.com/p/docker-scout-unveils-advanced-features-bolster-software-supply-chain-integrity) ![badge](https://img.shields.io/badge/-new-green) 
 
 
 
@@ -50,19 +51,19 @@ This comprehensive list List is maintained by Docker Captain [Ajeet Singh Raina]
 - [Integrate Docker Scout with GitLab CI](https://docs.docker.com/scout/integrations/ci/gitlab/)
 - [Integrate Docker Scout with Microsoft Azure DevOps Pipelines](https://docs.docker.com/scout/integrations/ci/azure/)
 - [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
-- [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/)
-- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/)
+- [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/) ![badge](https://img.shields.io/badge/-new-green) 
 
 
 ## GitHub Sample projects
 
-- [Scout Action](https://github.com/docker/scout-action)
+- [Scout Action](https://github.com/docker/scout-action) ![badge](https://img.shields.io/badge/-new-green) 
 - [Scout CLI](https://github.com/docker/scout-cli)
 
 
 ## Case Studies
 
-- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/)
+- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/) ![badge](https://img.shields.io/badge/-new-green) 
 
 
 # Featured Videos
