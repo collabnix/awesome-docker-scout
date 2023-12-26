@@ -42,7 +42,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Docker Scout by Fsegredo](https://link.medium.com/U7exfMopKCb) ![badge](https://img.shields.io/badge/-new-green) 
 - [How to Integrate Docker Scout with GitLab](https://collabnix.com/how-to-integrate-docker-scout-with-gitlab/) ![badge](https://img.shields.io/badge/-new-green) 
 - [Docker Scout Unveils Advanced Features to Bolster Software Supply Chain Integrity](https://opensourcewatch.beehiiv.com/p/docker-scout-unveils-advanced-features-bolster-software-supply-chain-integrity) ![badge](https://img.shields.io/badge/-new-green)
-- [How to integrate Docker Scout with Azure Container Registry](https://hugs4bugs.me/how-to-integrate-docker-scout-with-azure-container-registry/) ![badge](https://img.shields.io/badge/-new-green) 
+- [How to integrate Docker Scout with Azure Container Registry](https://hugs4bugs.me/how-to-integrate-docker-scout-with-azure-container-registry/) ![badge](https://img.shields.io/badge/-new-green)  
 
 
 
@@ -56,7 +56,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
 - [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/) ![badge](https://img.shields.io/badge/-new-green) 
 - [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/) ![badge](https://img.shields.io/badge/-new-green)
-- [Docker Scout Integration with SonarQube](https://docs.docker.com/scout/integrations/code-quality/sonarqube/)
+- [Docker Scout Integration with SonarQube](https://docs.docker.com/scout/integrations/code-quality/sonarqube/) ![badge](https://img.shields.io/badge/-new-green) 
 
 
 ## GitHub Sample projects
