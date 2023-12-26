@@ -55,7 +55,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Integrate Docker Scout with Microsoft Azure DevOps Pipelines](https://docs.docker.com/scout/integrations/ci/azure/)
 - [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
 - [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/) ![badge](https://img.shields.io/badge/-new-green) 
-- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/) ![badge](https://img.shields.io/badge/-new-green)
+- [Docker Scout Integration with SonarQube](https://docs.docker.com/scout/integrations/code-quality/sonarqube/)
 
 
 ## GitHub Sample projects
