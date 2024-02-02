@@ -44,6 +44,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Docker Scout Unveils Advanced Features to Bolster Software Supply Chain Integrity](https://opensourcewatch.beehiiv.com/p/docker-scout-unveils-advanced-features-bolster-software-supply-chain-integrity) ![badge](https://img.shields.io/badge/-new-green)
 - [How to integrate Docker Scout with Azure Container Registry](https://hugs4bugs.me/how-to-integrate-docker-scout-with-azure-container-registry/) ![badge](https://img.shields.io/badge/-new-green)
 - [CI pipeline with Docker Scout and SAST scanning for an OWASP-based Python app](https://github.com/nadyinky/devsecops-docker-flow)
+- [DevSecOps CI/CD : Deploying a Secure Hotstar Clone](https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/)
 
 
 
