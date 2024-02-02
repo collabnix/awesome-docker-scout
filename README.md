@@ -65,6 +65,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 - [Scout Action](https://github.com/docker/scout-action) ![badge](https://img.shields.io/badge/-new-green) 
 - [Scout CLI](https://github.com/docker/scout-cli)
+- [CLI for scouting docker images, Results can be routed to google drive](https://github.com/dassongh/docker_scout) ![badge](https://img.shields.io/badge/-new-green)
 
 
 ## Case Studies
