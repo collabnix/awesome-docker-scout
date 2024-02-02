@@ -93,8 +93,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 | [![Docker Scout](https://img.youtube.com/vi/SlUqxSUvv3o/sddefault.jpg)](https://www.youtube.com/watch?v=SlUqxSUvv3o&t=5s) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
 
 
-| TECHarlas #3 - Supply chain, Docker Scout y seguridad en contenedores con Felipe Cruz de @DockerIo |  
-| ---------------------------------------------- | 
-| [![Docker Scout](https://img.youtube.com/vi/csNytM7XFz4/sddefault.jpg)](https://www.youtube.com/watch?v=csNytM7XFz4) | 
+| TECHarlas #3 - Supply chain, Docker Scout y seguridad en contenedores con Felipe Cruz de @DockerIo | What is Docker Scout - Have security concerns? Know everything about Docker Scout in this video | 
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/csNytM7XFz4/sddefault.jpg)](https://www.youtube.com/watch?v=csNytM7XFz4) | [![Docker Scout](https://img.youtube.com/vi/Dal3Nge32cU/sddefault.jpg)](https://www.youtube.com/watch?v=Dal3Nge32cU) |
 
 
