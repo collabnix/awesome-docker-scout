@@ -45,6 +45,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [How to integrate Docker Scout with Azure Container Registry](https://hugs4bugs.me/how-to-integrate-docker-scout-with-azure-container-registry/) ![badge](https://img.shields.io/badge/-new-green)
 - [CI pipeline with Docker Scout and SAST scanning for an OWASP-based Python app](https://github.com/nadyinky/devsecops-docker-flow)
 - [DevSecOps CI/CD : Deploying a Secure Hotstar Clone](https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/) ![badge](https://img.shields.io/badge/-new-green)
+- [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk?a) ![badge](https://img.shields.io/badge/-new-green)
 
 
 
@@ -63,9 +64,12 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 ## GitHub Sample projects
 
-- [Scout Action](https://github.com/docker/scout-action) ![badge](https://img.shields.io/badge/-new-green) 
+- [Scout Action](https://github.com/docker/scout-action) 
 - [Scout CLI](https://github.com/docker/scout-cli)
 - [CLI for scouting docker images, Results can be routed to google drive](https://github.com/dassongh/docker_scout) ![badge](https://img.shields.io/badge/-new-green)
+- [Continuous Integration and Continuous Deployment (CI/CD) using Docker and Scout](https://github.com/pgaijin66/cicd-using-docker-scout) ![badge](https://img.shields.io/badge/-new-green)
+- [Docker Scout Advisories GitHub Repo](https://github.com/dvdksn/docker-scout-advisories) ![badge](https://img.shields.io/badge/-new-green)
+
 
 
 ## Case Studies
