@@ -46,6 +46,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [CI pipeline with Docker Scout and SAST scanning for an OWASP-based Python app](https://github.com/nadyinky/devsecops-docker-flow)
 - [DevSecOps CI/CD : Deploying a Secure Hotstar Clone](https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/) ![badge](https://img.shields.io/badge/-new-green)
 - [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk?a) ![badge](https://img.shields.io/badge/-new-green)
+- [Streamlining Automated Deployments with Docker Scout: Enhancing DevSecOps Efficiency](https://blog.devops.dev/streamlining-automated-deployments-with-docker-scout-enhancing-devsecops-efficiency-b3987e6c173f)
 
 
 
