@@ -49,9 +49,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Securing Docker Images: A Comprehensive Guide to Integrating Docker Scout in GitHub Workflow](https://dev.to/pradumnasaraf/securing-docker-images-a-comprehensive-guide-to-integrating-docker-scout-in-github-workflow-2nbk?a) ![badge](https://img.shields.io/badge/-new-green)
 - [Streamlining Automated Deployments with Docker Scout: Enhancing DevSecOps Efficiency](https://blog.devops.dev/streamlining-automated-deployments-with-docker-scout-enhancing-devsecops-efficiency-b3987e6c173f)
 - [Identifying Container Image Vulnerabilities with Docker Scout](https://packagemain.tech/p/identifying-container-image-vulnerabilities) ![badge](https://img.shields.io/badge/-new-green)
-- [How to detect, fix and prevent container vulnerabilities with Inspector and Docker Scout](https://www.tecracer.com/blog/2024/02/from-fragile-to-formidable-how-to-detect-fix-and-prevent-container-vulnerabilities-with-inspector-and-docker-scout.html) ![badge](https://img.shields.io/badge/-new-green)
-
-
+- [How to detect, fix and prevent container vulnerabilities with Inspector and Docker Scout](https://www.tecracer.com/blog/2024/02/from-fragile-to-formidable-how-to-detect-fix-and-prevent-container-vulnerabilities-with-inspector-and-docker-scout.html)
+- [Docker Scout Commands](https://meghasharma.hashnode.dev/docker-scout-commands-part-1?ref=twitter-share) ![badge](https://img.shields.io/badge/-new-green)
 
 # Tutorials
 
