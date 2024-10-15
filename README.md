@@ -17,6 +17,11 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 1. [Join our Community](#join-our-community)
 2. [Blogs](#blogs)
+3. [Tutorials](#tutorials)
+4. [GitHub Sample projects](#github-sample-projects)
+5. [Case Studies](#case-studies)
+6. [Featured Videos](#featured-videos)
+
 
 # 📝 Join our Community
 
