@@ -12,6 +12,17 @@ This is a curated list of Docker Scout related resources. It is not an official 
 
 This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](https://twitter.com/ajeetsraina) and his [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Docker Scout users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
+# Table of Contents
+
+
+1. [Join our Community](#join-our-community)
+2. [Blogs](#blogs)
+3. [Tutorials](#tutorials)
+4. [GitHub Sample Projects](#github-sample-projects)
+5. [Case Studies](#case-studies)
+6. [Featured Videos](#featured-videos)
+
+
 # 📝 Join our Community
 
 - Join 9000+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
@@ -20,8 +31,6 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
 ### [Download Docker Scout Cheatsheet Now!!](https://www.docker.com/resources/scout-cheat-sheet/) ![badge](https://img.shields.io/badge/-new-green) 
-
-
 
 
 # Blogs
@@ -67,7 +76,7 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - [Docker Scout Integration with SonarQube](https://docs.docker.com/scout/integrations/code-quality/sonarqube/) ![badge](https://img.shields.io/badge/-new-green) 
 
 
-## GitHub Sample projects
+## GitHub Sample Projects
 
 - [Scout Action](https://github.com/docker/scout-action) 
 - [Scout CLI](https://github.com/docker/scout-cli)
