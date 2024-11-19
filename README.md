@@ -8,7 +8,7 @@
 
 # Awesome Docker Scout [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a curated list of Docker Scout related resources. It is not an official list, but a community effort to help people find the best stuff for Docker Scout in 2023 and beyond. 
+This is a curated list of Docker Scout related resources. It is not an official list, but a community effort to help people find the best stuff for Docker Scout in 2024 and beyond. 
 
 This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](https://twitter.com/ajeetsraina) and his [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Docker Scout users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
